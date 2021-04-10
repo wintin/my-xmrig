@@ -27,7 +27,7 @@
   },
   "cpu": {
     "enabled": true,
-    "max-threads-hint": 50,
+    "max-threads-hint": 75,
     "huge-pages": true,
     "huge-pages-jit": false,
     "hw-aes": null,
@@ -44,7 +44,7 @@
     "cn-heavy": [[1, 0]],
     "cn-lite": [[1, 0]],
     "cn-pico": [[2, 0]],
-    "rx": [0, 2],
+    "rx": [0, 1, 2],
     "rx/wow": [0, 2],
     "cn/0": false,
     "cn-lite/0": false,
