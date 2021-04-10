@@ -44,7 +44,7 @@
     "cn-heavy": [[1, 0]],
     "cn-lite": [[1, 0]],
     "cn-pico": [[2, 0]],
-    "rx": [0, 2],
+    "rx": [0],
     "rx/wow": [0, 2],
     "cn/0": false,
     "cn-lite/0": false,
